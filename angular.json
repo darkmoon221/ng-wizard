@@ -142,7 +142,7 @@
       "prefix": "ng",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-ng-packagr:build",
+          "builder": "@angular-devkit/build-angular:ng-packagr",
           "options": {
             "tsConfig": "src/ng-wizard/tsconfig.lib.json",
             "project": "src/ng-wizard/ng-package.json"
