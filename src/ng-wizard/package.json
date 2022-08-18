@@ -1,7 +1,7 @@
 {
   "name": "@kronscht/ng-wizard",
   "description": "Angular ng-wizard - Angular wizard | stepper",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/darkmoon221/ng-wizard.git"
