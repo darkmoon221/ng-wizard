@@ -1,7 +1,7 @@
 {
   "name": "@kronscht/ng-wizard",
   "description": "Angular ng-wizard - Angular wizard | stepper",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/darkmoon221/ng-wizard.git"
@@ -14,8 +14,8 @@
   "license": "MIT",
   "private": false,
   "peerDependencies": {
-    "@angular/common": "^13.3.0",
-    "@angular/core": "^13.3.0"
+    "@angular/common": "^14.1.1",
+    "@angular/core": "^14.1.1"
   },
   "keywords": [
     "angular",
